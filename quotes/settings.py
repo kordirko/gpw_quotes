@@ -96,4 +96,4 @@ FEED_EXPORTERS = {
     'xlsx': 'scrapy_xlsx.XlsxItemExporter',
 }
 
-LOG_FILE = "logfile.log"
+# LOG_FILE = "logfile.log"
